@@ -1,6 +1,6 @@
 # eTumorMetastasisNetwork
-This is a supplemental repository for paper (to be published):
->Genomic landscapes of either cancer patients’ germlines or tumor founding clones predict tumor recurrence.
+This is a supplemental repository for paper:
+>Genomic landscapes of either cancer patients’ germlines or tumor founding clones predict tumor recurrence
 
 ## Download data
 * [ER+ breast cancer specific metastasis network](https://github.com/WangEdwinLab/eTumorMetastasisNetwork/raw/master/ER%2B%20breast%20cancer%20specific%20metastasis%20network.xls) (xls)
